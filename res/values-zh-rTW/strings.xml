@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">國旗 猜謎</string>
+    <string name="action_settings">設定</string>
+    <string name="settings_activity">國旗 猜謎 設定</string>
+    <string name="number_of_choices">選項數量</string>
+    <string name="number_of_choices_description">顯示 3、6 或 9 答案選項</string>
+    <string name="world_regions">地區</string>
+    <string name="world_regions_description">猜謎涵蓋地區</string>
+    <string name="guess_country">請猜國家</string>
+    <string name="results">共猜 %1$d 次, %2$.02f%% 答對率</string>
+    <string name="incorrect_answer">對不起、不對！</string>
+    <string name="default_region_message">北美 為預設地區，至少必須選擇一個地區！</string>
+    <string name="restarting_quiz">新設定將在程式重新實行後生效</string>
+    <string name="ok">OK</string>
+    <string name="question">問題  %1$d / %2$d</string>
+    <string name="reset_quiz">重設問題</string>
+    <string name="image_description">問題目前顯示的國旗</string>
+    <string name="default_region">北美</string>
+
+</resources>

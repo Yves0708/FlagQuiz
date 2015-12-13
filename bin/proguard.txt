@@ -1,0 +1,14 @@
+# view AndroidManifest.xml #generated:16
+-keep class net.cloud95.android.lession.flagquiz.MainActivity { <init>(...); }
+
+# view large-land-v4\res/layout-large-land-v4/activity_main.xml #generated:21
+# view res/layout/activity_main.xml #generated:11
+-keep class net.cloud95.android.lession.flagquiz.QuizFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class net.cloud95.android.lession.flagquiz.SettingsActivity { <init>(...); }
+
+# view large-land-v4\res/layout-large-land-v4/activity_main.xml #generated:13
+# view res/layout/activity_settings.xml #generated:7
+-keep class net.cloud95.android.lession.flagquiz.SettingsFragment { <init>(...); }
+
